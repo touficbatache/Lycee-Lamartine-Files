@@ -20,6 +20,11 @@
   "imagename" : "calendrier.png"
 },
 {
+  "id" : "fournitures",
+  "title" : "Fournitures",
+  "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
+},
+{
   "id" : "brevet",
   "title" : "Brevet",
   "inapp" : "ml.toufic.lyceelamartine.BrevetActivity"
@@ -43,11 +48,6 @@
   "id" : "emplacement",
   "title" : "Emplacement",
   "inapp" : "ml.toufic.lyceelamartine.EmplacementActivity"
-},
-{
-  "id" : "fournitures",
-  "title" : "Fournitures",
-  "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
 },
 {
   "id" : "garderie",
