@@ -1,0 +1,66 @@
+[{
+  "id" : "siteweb",
+  "title" : "Site web",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/"
+},
+{
+  "id" : "pronote",
+  "title" : "Pronote",
+  "chrometabs" : "https://2050008v.index-education.net/pronote/"
+},
+{
+  "id" : "compteent",
+  "title" : "Compte ENT",
+  "chrometabs" : "https://accounts.google.com/AddSession"
+},
+{
+  "id" : "calendrier",
+  "title" : "Calendrier",
+  "imagelink" : "https://touficbatache.github.io/LyceeLamartine_2.0/calendrier-actuel.png",
+  "imagename" : "calendrier.png"
+},
+{
+  "id" : "brevet",
+  "title" : "Brevet",
+  "inapp" : "ml.toufic.lyceelamartine.BrevetActivity"
+},
+{
+  "id" : "menucafeteria",
+  "title" : "Menu cafeteria",
+  "inapp" : "ml.toufic.lyceelamartine.CafeteriaActivity"
+},
+{
+  "id" : "nouvellesinfos",
+  "title" : "Nouvelles infos",
+  "inapp" : "ml.toufic.lyceelamartine.NouvellesInfosActivity"
+},
+{
+  "id" : "contacts",
+  "title" : "Contacts",
+  "inapp" : "ml.toufic.lyceelamartine.ContactsActivity"
+},
+{
+  "id" : "emplacement",
+  "title" : "Emplacement",
+  "inapp" : "ml.toufic.lyceelamartine.EmplacementActivity"
+},
+{
+  "id" : "fournitures",
+  "title" : "Fournitures",
+  "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
+},
+{
+  "id" : "garderie",
+  "title" : "Garderie",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/category/la-garderie/"
+},
+{
+  "id" : "outlook",
+  "title" : "Outlook",
+  "chrometabs" : "https://mail.lycee-tripoli.edu.lb/owa"
+},
+{
+  "id" : "recrutement",
+  "title" : "Recrutement",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/recrutement/"
+}]
