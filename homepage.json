@@ -41,6 +41,7 @@
 },
 {
   "id" : "compteent",
+  "customicon" : "account-network",
   "title" : "Personnels LFLT",
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/personnels-du-lflt/"
 },
