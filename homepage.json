@@ -40,6 +40,11 @@
   "inapp" : "ml.toufic.lyceelamartine.NouvellesInfosActivity"
 },
 {
+  "id" : "compteent",
+  "title" : "Personnel du LFLT",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/personnels-du-lflt/"
+},
+{
   "id" : "contacts",
   "title" : "Contacts",
   "inapp" : "ml.toufic.lyceelamartine.ContactsActivity"
