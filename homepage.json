@@ -1,41 +1,49 @@
 [{
   "id" : "siteweb",
+  "customicon" : "earth",
   "title" : "Site web",
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/"
 },
 {
   "id" : "pronote",
+  "customicon" : "poll_box",
   "title" : "Pronote",
   "chrometabs" : "https://2050008v.index-education.net/pronote/"
 },
 {
   "id" : "compteent",
+  "customicon" : "account_multiple",
   "title" : "Compte ENT",
   "chrometabs" : "https://accounts.google.com/AddSession"
 },
 {
   "id" : "calendrier",
+  "customicon" : "calendar",
   "title" : "Calendrier",
   "imagelink" : "https://touficbatache.github.io/Lycee-Lamartine-Files/calendrier-actuel.png",
   "imagename" : "calendrier.png"
 },
 {
   "id" : "fournitures",
+  "customicon" : "book_open_variant",
   "title" : "Fournitures",
   "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
 },
 {
   "id" : "brevet",
+  "customicon" : "certificate",
   "title" : "Brevet",
   "inapp" : "ml.toufic.lyceelamartine.BrevetActivity"
 },
 {
   "id" : "menucafeteria",
+  "customicon" : "silverware",
   "title" : "Menu cafeteria",
   "inapp" : "ml.toufic.lyceelamartine.CafeteriaActivity"
 },
 {
   "id" : "nouvellesinfos",
+  "customicon" : "information",
   "title" : "Nouvelles infos",
   "inapp" : "ml.toufic.lyceelamartine.NouvellesInfosActivity"
 },
@@ -47,26 +55,31 @@
 },
 {
   "id" : "contacts",
+  "customicon" : "contacts",
   "title" : "Contacts",
   "inapp" : "ml.toufic.lyceelamartine.ContactsActivity"
 },
 {
   "id" : "emplacement",
+  "customicon" : "map_marker",
   "title" : "Emplacement",
   "inapp" : "ml.toufic.lyceelamartine.EmplacementActivity"
 },
 {
   "id" : "garderie",
+  "customicon" : "human_child",
   "title" : "Garderie",
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/category/la-garderie/"
 },
 {
   "id" : "outlook",
+  "customicon" : "at",
   "title" : "Outlook",
   "chrometabs" : "https://mail.lycee-tripoli.edu.lb/owa"
 },
 {
   "id" : "recrutement",
+  "customicon" : "briefcase",
   "title" : "Recrutement",
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/recrutement/"
 }]
