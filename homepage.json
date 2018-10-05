@@ -37,7 +37,7 @@
 },
 {
   "id" : "menucafeteria",
-  "customicon" : "silverware_fork_knife",
+  "customicon" : "silverware",
   "title" : "Menu cafeteria",
   "inapp" : "ml.toufic.lyceelamartine.CafeteriaActivity"
 },
