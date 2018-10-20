@@ -36,6 +36,12 @@
   "inapp" : "ml.toufic.lyceelamartine.BrevetActivity"
 },
 {
+  "id" : "brevet",
+  "customicon" : "school",
+  "title" : "Bac Francais",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/wp-content/uploads/2015/11/Reforme-du-BAC-2021.pdf"
+},
+{
   "id" : "menucafeteria",
   "customicon" : "silverware",
   "title" : "Menu cafeteria",
