@@ -8,7 +8,8 @@
   "id" : "pronote",
   "customicon" : "poll_box",
   "title" : "Pronote",
-  "chrometabs" : "https://2050008v.index-education.net/pronote/"
+  "chrometabs" : "https://2050008v.index-education.net/pronote/",
+  "showcase" : "pronote"
 },
 {
   "id" : "compteent",
