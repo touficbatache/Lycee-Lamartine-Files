@@ -1,4 +1,4 @@
 [{
-  "ml.toufic.lyceelamartine.FournituresActivity" : "http://www.lycee-tripoli.edu.lb/fourniture-materiel-scolaire/",
-  "ml.toufic.lyceelamartine.CafeteriaActivity" : "http://www.lycee-tripoli.edu.lb/garderie-collation-cafeteria/"
+  "FournituresActivity" : "http://www.lycee-tripoli.edu.lb/fourniture-materiel-scolaire/",
+  "CafeteriaActivity" : "http://www.lycee-tripoli.edu.lb/garderie-collation-cafeteria/"
 }]
