@@ -28,13 +28,13 @@
   "id" : "fournitures",
   "customicon" : "book_open_variant",
   "title" : "Fournitures",
-  "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
+  "inapp" : "FournituresActivity"
 },
 {
   "id" : "brevet",
   "customicon" : "certificate",
   "title" : "Brevet",
-  "inapp" : "ml.toufic.lyceelamartine.BrevetActivity"
+  "inapp" : "BrevetActivity"
 },
 {
   "id" : "brevet",
@@ -46,13 +46,13 @@
   "id" : "menucafeteria",
   "customicon" : "silverware",
   "title" : "Menu cafeteria",
-  "inapp" : "ml.toufic.lyceelamartine.CafeteriaActivity"
+  "inapp" : "CafeteriaActivity"
 },
 {
   "id" : "nouvellesinfos",
   "customicon" : "information",
   "title" : "Nouvelles infos",
-  "inapp" : "ml.toufic.lyceelamartine.NouvellesInfosActivity"
+  "inapp" : "NouvellesInfosActivity"
 },
 {
   "id" : "compteent",
@@ -64,13 +64,13 @@
   "id" : "contacts",
   "customicon" : "contacts",
   "title" : "Contacts",
-  "inapp" : "ml.toufic.lyceelamartine.ContactsActivity"
+  "inapp" : "ContactsActivity"
 },
 {
   "id" : "emplacement",
   "customicon" : "map_marker",
   "title" : "Emplacement",
-  "inapp" : "ml.toufic.lyceelamartine.EmplacementActivity"
+  "inapp" : "EmplacementActivity"
 },
 {
   "id" : "garderie",
