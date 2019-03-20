@@ -1,0 +1,99 @@
+[{
+  "id" : "siteweb",
+  "customicon" : "earth",
+  "title" : "Site web",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/"
+},
+{
+  "id" : "pronote",
+  "customicon" : "poll_box",
+  "title" : "Pronote",
+  "chrometabs" : "https://2050008v.index-education.net/pronote/" ,
+  "showcasemessage" : "Maintenez l'appui pour ajouter une rubrique à votre écran d'accueil."
+},
+{
+  "id" : "compteent",
+  "customicon" : "account_multiple",
+  "title" : "Compte ENT",
+  "chrometabs" : "https://accounts.google.com/AddSession"
+},
+{
+  "id" : "webradio",
+  "customicon" : "radio",
+  "title" : "Webradio",
+  "inapp" : "WebradioActivity",
+  "showcasemessage" : "Nouvelle rubrique! Suivez les nouvelles du Lycée Lamartine à travers nos jeunes reporters de la webradio."
+},
+{
+  "id" : "calendrier",
+  "customicon" : "calendar",
+  "title" : "Calendrier",
+  "imagelink" : "https://touficbatache.github.io/Lycee-Lamartine-Files/calendrier-actuel.png",
+  "imagename" : "calendrier.png"
+},
+{
+  "id" : "brevet",
+  "customicon" : "certificate",
+  "title" : "Brevet",
+  "inapp" : "BrevetActivity"
+},
+{
+  "id" : "brevet",
+  "customicon" : "school",
+  "title" : "Bac Francais",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/wp-content/uploads/2015/11/Reforme-du-BAC-2021.pdf"
+},
+{
+  "id" : "menucafeteria",
+  "customicon" : "silverware",
+  "title" : "Menu cafeteria",
+  "inapp" : "CafeteriaActivity"
+},
+{
+  "id" : "nouvellesinfos",
+  "customicon" : "information",
+  "title" : "Nouvelles infos",
+  "inapp" : "NouvellesInfosActivity"
+},
+{
+  "id" : "compteent",
+  "customicon" : "account_network",
+  "title" : "Personnels LFLT",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/personnels-du-lflt/"
+},
+{
+  "id" : "contacts",
+  "customicon" : "contacts",
+  "title" : "Contacts",
+  "inapp" : "ContactsActivity"
+},
+{
+  "id" : "emplacement",
+  "customicon" : "map_marker",
+  "title" : "Emplacement",
+  "inapp" : "EmplacementActivity"
+},
+{
+  "id" : "garderie",
+  "customicon" : "human_child",
+  "title" : "Garderie",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/category/la-garderie/"
+},
+{
+  "id" : "outlook",
+  "customicon" : "at",
+  "title" : "Outlook",
+  "chrometabs" : "https://mail.lycee-tripoli.edu.lb/owa"
+},
+{
+  "id" : "recrutement",
+  "customicon" : "briefcase",
+  "title" : "Recrutement",
+  "chrometabs" : "http://www.lycee-tripoli.edu.lb/recrutement/"
+},
+{
+  "id" : "fournitures",
+  "customicon" : "book_open_variant",
+  "title" : "Fournitures",
+  "inapp" : "FournituresActivity"
+}]
