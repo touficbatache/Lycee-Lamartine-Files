@@ -8,8 +8,8 @@
   "id" : "pronote",
   "customicon" : "poll_box",
   "title" : "Pronote",
-  "chrometabs" : "https://2050008v.index-education.net/pronote/",
-  "showcase" : "pronote"
+  "chrometabs" : "https://2050008v.index-education.net/pronote/" ,
+  "showcasemessage" : "Maintenez l'appui pour ajouter une rubrique à votre écran d'accueil."
 },
 {
   "id" : "compteent",
@@ -18,17 +18,18 @@
   "chrometabs" : "https://accounts.google.com/AddSession"
 },
 {
+  "id" : "webradio",
+  "customicon" : "radio",
+  "title" : "Webradio",
+  "inapp" : "WebradioActivity",
+  "showcasemessage" : "Nouvelle rubrique! Suivez les nouvelles du Lycée Lamartine à travers nos jeunes reporters de la webradio."
+},
+{
   "id" : "calendrier",
   "customicon" : "calendar",
   "title" : "Calendrier",
   "imagelink" : "https://touficbatache.github.io/Lycee-Lamartine-Files/calendrier-actuel.png",
   "imagename" : "calendrier.png"
-},
-{
-  "id" : "fournitures",
-  "customicon" : "book_open_variant",
-  "title" : "Fournitures",
-  "inapp" : "FournituresActivity"
 },
 {
   "id" : "brevet",
@@ -89,4 +90,10 @@
   "customicon" : "briefcase",
   "title" : "Recrutement",
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/recrutement/"
+},
+{
+  "id" : "fournitures",
+  "customicon" : "book_open_variant",
+  "title" : "Fournitures",
+  "inapp" : "FournituresActivity"
 }]
