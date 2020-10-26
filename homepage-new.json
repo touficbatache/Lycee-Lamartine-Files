@@ -20,13 +20,13 @@
     "inapp":"EntActivity",
     "guestlink":"https://accounts.google.com/AccountChooser?service=mail&amp;continue=https://mail.google.com/mail/"
   },
-  {
-    "id":"classroom",
-    "customicon":"teach",
-    "title":"Classroom",
-    "chrometabs":"https://classroom.google.com/",
-    "showcasemessage":"Nouvelle rubrique! Connectez-vous à votre compte Classroom pour un accès encore plus facile !"
-  },
+//  {
+//    "id":"classroom",
+//    "customicon":"google_classroom",
+//    "title":"Classroom",
+//    "chrometabs":"https://classroom.google.com/",
+//    "showcasemessage":"Nouvelle rubrique! Connectez-vous à votre compte Classroom pour un accès encore plus facile !"
+//  },
   {
     "id":"agora",
     "customicon":"account_switch",
