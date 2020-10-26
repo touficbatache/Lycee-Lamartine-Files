@@ -22,7 +22,7 @@
   },
   {
     "id":"classroom",
-    "customicon":"google_classroom",
+    "customicon":"teach",
     "title":"Classroom",
     "chrometabs":"https://classroom.google.com/",
     "showcasemessage":"Nouvelle rubrique! Connectez-vous à votre compte Classroom pour un accès encore plus facile !"
