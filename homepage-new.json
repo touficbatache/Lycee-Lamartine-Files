@@ -3,7 +3,8 @@
     "id":"siteweb",
     "customicon":"earth",
     "title":"Site web",
-    "chrometabs":"http://www.lycee-tripoli.edu.lb/"
+    "chrometabs":"http://www.lycee-tripoli.edu.lb/",
+    "color":"red_200"
   },
   {
     "id":"pronote",
@@ -11,104 +12,121 @@
     "title":"Pronote",
     "inapp":"PronoteActivity",
     "showcasemessage":"Maintenez l'appui pour ajouter une rubrique à votre écran d'accueil.",
-    "guestlink":"https://2050008v.index-education.net/pronote/mobile.html"
+    "guestlink":"https://2050008v.index-education.net/pronote/mobile.html",
+    "color":"green_200"
   },
   {
     "id":"compteent",
     "customicon":"account_multiple",
     "title":"Compte ENT",
     "inapp":"EntActivity",
-    "guestlink":"https://accounts.google.com/AccountChooser?service=mail&amp;continue=https://mail.google.com/mail/"
+    "guestlink":"https://accounts.google.com/AccountChooser?service=mail&amp;continue=https://mail.google.com/mail/",
+    "color":"blue_200"
   },
   {
     "id":"agora",
     "customicon":"account_switch",
     "title":"AGORA",
-    "chrometabs":"https://agora-aefe.fr/"
+    "chrometabs":"https://agora-aefe.fr/",
+    "color":"deep_orange_200"
   },
   {
     "id":"webradio",
     "customicon":"radio",
     "title":"Webradio",
-    "inapp":"WebradioActivity"
+    "inapp":"WebradioActivity",
+    "color":"pink_200"
   },
   {
     "id":"rentree",
     "customicon":"domain",
     "title":"Rentrée scolaire",
-    "chrometabs":"https://www.lycee-tripoli.edu.lb/2020/09/13/rentree-2020-le-mot-du-proviseur/"
+    "chrometabs":"https://www.lycee-tripoli.edu.lb/2020/09/13/rentree-2020-le-mot-du-proviseur/",
+    "color":"deep_purple_200"
   },
   {
     "id":"fournitures",
     "customicon":"book_open_variant",
     "title":"Fournitures",
-    "inapp":"FournituresActivity"
+    "inapp":"FournituresActivity",
+    "color":"teal_200"
   },
   {
     "id":"calendrier",
     "customicon":"calendar",
     "title":"Calendrier",
     "imagelink":"https://touficbatache.github.io/Lycee-Lamartine-Files/calendrier-actuel.png",
-    "imagename":"calendrier.png"
+    "imagename":"calendrier.png",
+    "color":"orange_200"
   },
   {
     "id":"epreuves_libanaises",
     "customicon":"certificate",
     "title":"Épreuves Libanaises",
-    "inapp":"EpreuvesLibanaisesActivity"
+    "inapp":"EpreuvesLibanaisesActivity",
+    "color":"light_green_200"
   },
   {
     "id":"brevet",
     "customicon":"school",
     "title":"Bac Francais",
-    "chrometabs":"http://www.lycee-tripoli.edu.lb/wp-content/uploads/2015/11/Reforme-du-BAC-2021.pdf"
+    "chrometabs":"http://www.lycee-tripoli.edu.lb/wp-content/uploads/2015/11/Reforme-du-BAC-2021.pdf",
+    "color":"cyan_200"
   },
   {
     "id":"menucafeteria",
     "customicon":"silverware",
     "title":"Menu cafeteria",
-    "inapp":"CafeteriaActivity"
+    "inapp":"CafeteriaActivity",
+    "color":"purple_200"
   },
   {
     "id":"nouvellesinfos",
     "customicon":"information",
     "title":"Nouvelles infos",
-    "inapp":"NouvellesInfosActivity"
+    "inapp":"NouvellesInfosActivity",
+    "color":"indigo_200"
   },
   {
     "id":"personnels_lflt",
     "customicon":"account_network",
     "title":"Personnels LFLT",
-    "chrometabs":"http://www.lycee-tripoli.edu.lb/personnels-du-lflt/"
+    "chrometabs":"http://www.lycee-tripoli.edu.lb/personnels-du-lflt/",
+    "color":"light_blue_200"
   },
   {
     "id":"contacts",
     "customicon":"contacts",
     "title":"Contacts",
-    "inapp":"ContactsActivity"
+    "inapp":"ContactsActivity",
+    "color":"brown_200"
   },
   {
     "id":"emplacement",
     "customicon":"map_marker",
     "title":"Emplacement",
-    "inapp":"EmplacementActivity"
+    "inapp":"EmplacementActivity",
+    "color":"blue_grey_200"
   },
   {
     "id":"garderie",
     "customicon":"human_child",
     "title":"Garderie",
-    "chrometabs":"http://www.lycee-tripoli.edu.lb/category/la-garderie/"
+    "chrometabs":"http://www.lycee-tripoli.edu.lb/category/la-garderie/",
+    "color":"pink_200"
   },
   {
     "id":"outlook",
     "customicon":"at",
     "title":"Outlook",
-    "chrometabs":"https://mail.lycee-tripoli.edu.lb/owa"
+    "chrometabs":"https://mail.lycee-tripoli.edu.lb/owa",
+    "color":"deep_orange_200"
   },
   {
     "id":"recrutement",
     "customicon":"briefcase",
     "title":"Recrutement",
-    "chrometabs":"http://www.lycee-tripoli.edu.lb/recrutement/"
+    "chrometabs":"http://www.lycee-tripoli.edu.lb/recrutement/",
+    "color":"green_200"
   }
 ]
