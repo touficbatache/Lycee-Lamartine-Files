@@ -24,11 +24,11 @@
     "color":"blue_200"
   },
   {
-    "id":"agora",
-    "customicon":"account_switch",
-    "title":"AGORA",
-    "chrometabs":"https://agora-aefe.fr/",
-    "color":"deep_orange_200"
+    "id":"recrutement",
+    "customicon":"briefcase",
+    "title":"Recrutement",
+    "chrometabs":"http://www.lycee-tripoli.edu.lb/recrutement/",
+    "color":"green_200"
   },
   {
     "id":"webradio",
@@ -123,10 +123,10 @@
     "color":"deep_orange_200"
   },
   {
-    "id":"recrutement",
-    "customicon":"briefcase",
-    "title":"Recrutement",
-    "chrometabs":"http://www.lycee-tripoli.edu.lb/recrutement/",
-    "color":"green_200"
+    "id":"agora",
+    "customicon":"account_switch",
+    "title":"AGORA",
+    "chrometabs":"https://agora-aefe.fr/",
+    "color":"deep_orange_200"
   }
 ]
